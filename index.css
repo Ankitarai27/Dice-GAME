@@ -5,6 +5,14 @@ body, html {
     height: 100%;
     background-color: rgb(70, 62, 62); 
 }
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+    font-family: "Bebas Neue", sans-serif;
+}
 .container{
     margin: auto;
     padding: 0;
