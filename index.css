@@ -1,0 +1,31 @@
+body, html {
+    overflow: hidden; 
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: rgb(70, 62, 62); 
+}
+.container{
+    margin: auto;
+    padding: 0;
+    width: 70%;
+    text-align: center;
+    color: aqua;
+}
+h1{
+    font-size: 7rem;
+}
+.div-1{
+    text-align: center;
+    display: inline-block;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+    margin: 2rem;
+    padding: 1rem;
+}
+img{
+    height:80%;
+    width: 80%;
+}
